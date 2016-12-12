@@ -1,0 +1,46 @@
+
+*** These modified files were found in JOE when it aborted on Wed Dec  7 15:13:26 2016
+*** JOE was aborted by UNIX signal 15
+
+*** File '(Unnamed)'
+TheBoxOptions
+options
+TheBoxOptions
+
+*** File '(Unnamed)'
+mQENBFfOlQkBCADXO4VLerXBbBk2zONZX5szdhtpVQilSFkbqsvR8RZQjazEWfiv
+r
+TheBoxSettings
+settings
+TheBoxSettings
+XIX
+T2
+
+*** File '(Unnamed)'
+TODO
+TODO
+TODO
+TODO
+../../TODO
+../../TODO
+../../TODO
+README.md
+README.md
+README.txt
+main.c
+main.c
+../lib/editor.h
+main.c
+main.c
+../lib/editor.h
+../lib/editor.h
+../lib/editor.c
+../lib/editor.c
+
+*** File '* Startup Log *'
+Processing '/home/luca/.joerc'...
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+Finished processing /home/luca/.joerc
